@@ -1,15 +1,15 @@
-Write a function that converts a binary number to an unsigned int.
+0.Write a function that converts a binary number to an unsigned int.
 
-Write a function that prints the binary representation of a number.
+1.Write a function that prints the binary representation of a number.
 
-Write a function that returns the value of a bit at a given index.
+2.11Write a function that returns the value of a bit at a given index.
 
-Write a function that sets the value of a bit to 1 at a given index.
+3.Write a function that sets the value of a bit to 1 at a given index.
 
-Write a function that sets the value of a bit to 0 at a given index.
+4.Write a function that sets the value of a bit to 0 at a given index.
 
-Write a function that returns the number of bits you would need to flip to get from one number to another.
+5.Write a function that returns the number of bits you would need to flip to get from one number to another.
 
-Write a function that checks the endianness.
+6.Write a function that checks the endianness.
 
-Find the password for this program.
+7.Find the password for this program.
